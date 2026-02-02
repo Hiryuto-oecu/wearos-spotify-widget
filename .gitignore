@@ -1,0 +1,29 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk.dir is shared)
+local.properties
+
+# Android Studio/IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Android
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+
+# Keys
+*.jks
+*.keystore
+key.properties
+
+# OS
+.DS_Store
+Thumbs.db
